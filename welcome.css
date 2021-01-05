@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.note {
+    position: absolute;
+    margin-left: 530px;
+    margin-top: -602px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #fcfcfc;
+}
+img{
+    margin-left: 330px;
+    
+}
+.btn{
+    position: absolute;
+    margin-top:330px;
+    margin-left: -480px;
+}
